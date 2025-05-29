@@ -1,3 +1,58 @@
+### Imbue Hunter DispKodoOTK
+# Class: Hunter
+# Format: Wild
+#
+# 2x (1) Fetch!
+# 2x (1) Flare
+# 2x (1) Tour Guide
+# 2x (1) Tracking
+# 2x (1) Trinket Tracker
+# 1x (2) Arcane Quiver
+# 2x (2) Bitterbloom Knight
+# 2x (2) Exotic Houndmaster
+# 2x (2) Messenger Buzzard
+# 2x (2) Scavenger's Ingenuity
+# 1x (3) Brann Bronzebeard
+# 2x (3) Sing-Along Buddy
+# 2x (4) Dispatch Kodo
+# 2x (4) Flutterwing Guardian
+# 2x (4) Umbraclaw
+# 2x (5) Star Power
+# 
+AAEBAR8ChReNkgUOgAemwQL/ugObzQOpnwSqpAXz8gXfjgbqpQaiswbW+gbi+gbk+gb3gQcAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Imbue Druid
+# Class: Druid
+# Format: Wild
+#
+# 2x (0) Innervate
+# 2x (1) Charred Chameleon
+# 2x (1) Living Roots
+# 1x (1) Nature Studies
+# 2x (1) Symbiosis
+# 2x (2) Bitterbloom Knight
+# 2x (2) Horn of Plenty
+# 2x (2) Mark of the Wild
+# 2x (2) Trail Mix
+# 2x (2) Wrath
+# 2x (3) Dreambound Disciple
+# 2x (3) Petal Picker
+# 2x (3) Sing-Along Buddy
+# 1x (4) Amirdrassil
+# 2x (4) Flutterwing Guardian
+# 1x (5) Hamuul Runetotem
+# 1x (9) Fyrakk the Blazing
+# 
+AAEBAbSKAwSbzgOqgQevhwesiAcNh58Erp8EgNQEgdQEorMGw7oG1voG4IEH94EHiIMHsIcHwIcHpIkHAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Even Totem Shaman
 # Class: Shaman
 # Format: Wild
