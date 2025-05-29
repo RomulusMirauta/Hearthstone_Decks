@@ -1,3 +1,32 @@
+### AGAMAGGAN
+# Class: Warlock
+# Format: Wild
+#
+# 1x (1) Demonic Studies
+# 1x (1) Demonic Studies
+# 2x (2) Darkbomb
+# 2x (2) Defile
+# 2x (2) Demonic Dynamics
+# 2x (2) Plot Twist
+# 2x (2) Twisted Knowledge
+# 2x (3) "Health" Drink
+# 2x (3) Dark Skies
+# 2x (3) School Spirits
+# 2x (4) Dark Alley Pact
+# 1x (4) Hysteria
+# 2x (4) Siphon Soul
+# 2x (4) The Dark Portal
+# 2x (5) Runed Mithril Rod
+# 1x (6) Glinda Crowskin
+# 1x (8) Jepetto Joybuzz
+# 1x (10) Agamaggan
+# 
+AAEBAZT9Bga/8QLanQPs0QP44wPi5gaDhAcMrRDnywLamwPrrAOttgO/uQOsywO98QOCoATyxgWTywbe5gYAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### SILENCE PRIEST
 # Class: Priest
 # Format: Wild
