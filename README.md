@@ -1,6 +1,6 @@
 # Hearthstone 
 
-<br><br>
+<br>
 
 ## Useful Links
 
