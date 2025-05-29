@@ -1,0 +1,444 @@
+### Even Totem Shaman
+# Class: Shaman
+# Format: Wild
+#
+# 2x (0) Ancient Totem
+# 1x (0) Melomania
+# 2x (0) Totemic Might
+# 2x (0) Totemic Surge
+# 2x (2) Anchored Totem
+# 2x (2) Carving Chisel
+# 2x (2) Crackle
+# 2x (2) Flametongue Totem
+# 2x (2) Hydration Totem
+# 1x (2) Jam Session
+# 1x (2) Kobold Hermit
+# 2x (2) Malted Magma
+# 2x (2) Needlerock Totem
+# 1x (2) Sing-Along Buddy
+# 1x (2) Trusty Companion
+# 1x (4) Draenei Totemcarver
+# 1x (6) Genn Greymane
+# 2x (6) Thing from Below
+# 1x (10) Gigantotem
+# 
+AAEBAfrwBgi1FMHSAs30Ar3lBPTQBfTyBcOPBqKzBgu+BtYP2qUD+rQEhtQEqtkEovoFnJ4GwZ4GpMAGq+EGAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### aGGro DRUID 2024.1
+# Class: Druid
+# Format: Wild
+#
+# 2x (1) Adorable Infestation
+# 2x (1) Druid of the Reef
+# 2x (1) Guardian Augmerchant
+# 2x (1) Living Roots
+# 2x (1) Peasant
+# 2x (1) Sow the Soil
+# 1x (2) Anodized Robo Cub
+# 2x (2) Bonechewer Brawler
+# 1x (2) Composting
+# 2x (2) Encumbered Pack Mule
+# 2x (2) Jerry Rig Carpenter
+# 2x (2) Power of the Wild
+# 2x (2) Razormane Battleguard
+# 1x (3) Oracle of Elune
+# 1x (3) Voracious Reader
+# 2x (4) Park Panther
+# 2x (5) Arbor Up
+# 
+AAEBAbSKAwSwEMbRA8n1A4H3Aw3XvgPevgO50gOM5AO57AOI9APs9QP09gOsgASwgATZnwSB1AT85QYAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### LEGEND Odd Paladin aGGro
+# Class: Paladin
+# Format: Wild
+#
+# 1x (1) Animated Broomstick
+# 2x (1) Conviction (Rank 1)
+# 2x (1) Crystology
+# 2x (1) Knight of Anointment
+# 2x (1) Lost in the Jungle
+# 2x (1) Promotion
+# 2x (1) Righteous Protector
+# 2x (1) Tour Guide
+# 1x (3) Divine Favor
+# 1x (3) Dreamplanner Zephrys
+# 2x (3) Jury Duty
+# 2x (3) Lightfused Stegodon
+# 2x (3) Muster for Battle
+# 1x (3) Stewart the Steward
+# 2x (3) Warhorse Trainer
+# 1x (5) Leeroy Jenkins
+# 1x (5) Level Up!
+# 1x (5) Quartermaster
+# 1x (9) Baku the Mooneater
+# 
+AAEBAaToAginBewPteYCnvgClc0DwuIEzOEG5uYGC7jHAtnHAtn+ApvNA8zrA+PrA8egBMmgBMHiBP3uBJT1BQAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Taunt Warrior Gnome OTK
+# Class: Warrior
+# Format: Wild
+#
+# 1x (1) Fire Plume's Heart
+# 1x (1) Garrosh's Gift
+# 2x (1) Into the Fray
+# 2x (1) Last Stand
+# 2x (1) Sanguine Depths 
+# 2x (2) Bulk Up
+# 2x (2) Dryscale Deputy
+# 2x (2) Frightened Flunky
+# 1x (2) Shield Block
+# 2x (2) Stolen Goods
+# 2x (2) Unlucky Powderman
+# 2x (3) Battleworn Faceless
+# 2x (3) Chorus Riff
+# 2x (3) Feat of Strength
+# 2x (3) Gnomeregan Infantry
+# 1x (3) Prince Renathal
+# 2x (3) Treasure Guard
+# 2x (4) Detonation Juggernaut
+# 2x (4) Igneous Lavagorger
+# 2x (4) Saronite Tol'vir
+# 1x (5) Taelan Fordring
+# 1x (6) Armagedillo
+# 2x (6) Blast Tortoise
+# 
+AAEBAc/wBgbTwwKopAOoigSO1ASX7wTsqQYRkhD2vAKkpAPP3gOa7QOHtwTvzgSJgwXEkgXr0AWj+gXejQa5kQaKlAaQlwbrmAa/ogYAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Odd Paladin 2024.3
+# Class: Paladin
+# Format: Wild
+#
+# 2x (1) Animated Broomstick
+# 2x (1) Conviction (Rank 1)
+# 2x (1) Crystology
+# 2x (1) Knight of Anointment
+# 2x (1) Lost in the Jungle
+# 2x (1) Promotion
+# 2x (1) Righteous Protector
+# 1x (1) Sir Finley, Sea Guide
+# 2x (1) Tour Guide
+# 1x (3) Divine Favor
+# 1x (3) Dreamplanner Zephrys
+# 1x (3) Gorgonzormu
+# 2x (3) Jury Duty
+# 2x (3) Lightfused Stegodon
+# 1x (3) Living Dragonbreath
+# 1x (3) Prince Renathal
+# 1x (3) Runi, Time Explorer
+# 1x (3) Smothering Starfish
+# 1x (3) Stewart the Steward
+# 1x (3) Tight-Lipped Witness
+# 2x (3) Warhorse Trainer
+# 1x (5) Leeroy Jenkins
+# 2x (5) Level Up!
+# 1x (5) Loatheb
+# 1x (5) Platebreaker
+# 2x (5) Quartermaster
+# 1x (9) Baku the Mooneater
+# 
+AAEBAaToAg6nBfoOnvgC+rAD+7AD5bAEjbUEwuIEl+8Eo+8EtKEGus4GzOEG5uYGDewPuMcC2ccCteYC2f4Clc0Dm80DzOsD4+sDx6AEyaAEweIE/e4EAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Pirates
+# Class: Death Knight
+# Format: Standard
+# Year of the Pegasus
+#
+# 1x (1) Southsea Deckhand
+# 2x (2) Bloodsail Recruiter
+# 2x (2) Brittlebone Buccaneer
+# 2x (2) Coconut Cannoneer
+# 2x (2) Dreadhound Handler
+# 2x (2) Drink Server
+# 2x (2) Mining Casualties
+# 1x (2) Travel Agent
+# 1x (3) Corpse Farm
+# 1x (3) Dreamplanner Zephrys
+# 1x (3) Gorgonzormu
+# 2x (3) Hardcore Cultist
+# 2x (3) Hozen Roughhouser
+# 2x (3) Southsea Captain
+# 1x (4) Horizon's Edge
+# 2x (4) Quartzite Crusher
+# 1x (6) Frostmourne
+# 2x (6) Weapons Attendant
+# 1x (7) Marin the Manager
+# 
+AAECAfHhBAiAmAa6wQbHyQaYywa6zgbM4QbU5QbJ9AYLr6AE+PkFkqAGy7AG/7oGlL8G1MAGrcUGl8oGkMsGltYGAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Unholy Death Knight
+# Class: Death Knight
+# Format: Wild
+#
+# 2x (1) Body Bagger
+# 2x (1) Murmy
+# 2x (1) Plagued Grain
+# 2x (1) Skeletal Sidekick
+# 2x (2) Battlefield Necromancer
+# 2x (2) Cult Neophyte
+# 2x (2) Necrotic Mortician
+# 2x (3) Anti-Magic Shell
+# 2x (3) Chillfallen Baron
+# 2x (4) Grave Strength
+# 2x (5) Army of the Dead
+# 2x (5) Corpse Bride
+# 1x (5) Taelan Fordring
+# 2x (6) Gnome Muncher
+# 2x (9) Stitched Giant
+# 1x (9) The Scourge
+# 
+AAEBAfHhBAKoigTh5QYO/+MEhuQEkOQEkeQEhfYEh/YEsvcEs/cEmIEFrqEF0J4G1J4G0+UG4OUGAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Pirate Rogue v2
+# Class: Rogue
+# Format: Wild
+#
+# 2x (1) Cold Blood
+# 2x (1) Filletfighter
+# 2x (1) Gear Shift
+# 2x (1) Jolly Roger
+# 1x (1) Prize Plunderer
+# 2x (1) Southsea Deckhand
+# 2x (1) Treasure Distributor
+# 1x (2) Cavern Shinyfinder
+# 2x (2) Parachute Brigand
+# 2x (2) Ship's Cannon
+# 2x (2) Toy Boat
+# 1x (3) Dreamplanner Zephrys
+# 2x (3) Hozen Roughhouser
+# 1x (3) Raiding Party
+# 1x (3) Sailboat Captain
+# 2x (3) Swordfish
+# 2x (4) Dread Corsair
+# 1x (5) Leeroy Jenkins
+# 
+AAEBAYO6Agbl0QLz3QPqxAbM4QaR5gbm5gYMjAL7D+mwA4rJBJrbBNejBb/3BdaeBvylBvyoBq3FBsn0BgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Pirate DH v2
+# Class: Demon Hunter
+# Format: Wild
+#
+# 2x (1) Mana Burn
+# 2x (1) Mistake
+# 2x (1) Southsea Deckhand
+# 2x (1) Treasure Distributor
+# 2x (2) Adrenaline Fiend
+# 2x (2) Field of Strife
+# 2x (2) Parachute Brigand
+# 2x (2) Quick Pick
+# 2x (2) Ship's Cannon
+# 2x (2) Sigil of Skydiving
+# 2x (3) Hozen Roughhouser
+# 2x (3) Magnifying Glaive
+# 1x (3) Paraglide
+# 1x (3) Southsea Captain
+# 2x (4) Dangerous Cliffside
+# 1x (4) Kayn Sunfury
+# 1x (6) Kurtrus, Demon-Render
+# 
+AAEBAea5AwSHiwSvoASongbfwAYN+w/psAPyyQPltgSr4gSVqgXungb8qAbWwAbYwAb2wAatxQbJ9AYAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Disruptor Undead Aggro
+# Class: Druid
+# Format: Wild
+#
+# 2x (0) Aquatic Form
+# 2x (0) Embiggen
+# 2x (1) Arms Dealer
+# 2x (1) Lingering Zombie
+# 2x (1) Living Roots
+# 2x (1) Mark of the Lotus
+# 2x (1) Sow the Soil
+# 2x (2) Bone Flinger
+# 2x (2) Crooked Cook
+# 2x (2) Jerry Rig Carpenter
+# 2x (2) Nerub'ar Weblord
+# 2x (2) Nerubian Flyer
+# 2x (2) Vrykul Necrolyte
+# 2x (3) Herald of Nature
+# 2x (3) Savage Roar
+# 
+AAEBAbSKAwAP5gWIDs27AvutA+z1A7CABK7ABKjOBIHUBN3tBNvxBJKTBbGYBZGdBeLFBQAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Treant Druid
+# Class: Druid
+# Format: Wild
+#
+# 2x (0) Aquatic Form
+# 2x (1) Forest Seedlings
+# 2x (1) Lingering Zombie
+# 2x (1) Living Roots
+# 2x (1) Vicious Slitherspear
+# 2x (1) Witchwood Apple
+# 2x (2) Crooked Cook
+# 2x (2) Mark of the Wild
+# 2x (2) Natural Causes
+# 2x (3) Conservator Nymph
+# 2x (3) Herald of Nature
+# 2x (3) Plot of Sin
+# 2x (3) Soul of the Forest
+# 2x (5) Blood Treant
+# 2x (8) Cultivation
+# 
+AAEBAbSKAwAP/QKHnwSIsgSuwASozgSB1ASy3QS14wTd7QSxmAXO5AWw+gWn/gXZ/wWsngYAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### FACE 2024.3
+# Class: Hunter
+# Format: Wild
+#
+# 2x (1) Arcane Shot
+# 1x (1) Candleshot
+# 2x (1) Flare
+# 2x (1) Glacial Shard
+# 1x (1) Rexxar's Gift
+# 2x (1) Tour Guide
+# 2x (1) Toxic Reinforcements
+# 2x (1) Tracking
+# 2x (3) Aimed Shot
+# 1x (3) Animal Companion
+# 2x (3) Blackwald Pixie
+# 1x (3) Dreamplanner Zephrys
+# 2x (3) Fencing Coach
+# 2x (3) Smothering Starfish
+# 1x (3) Unleash the Hounds
+# 1x (3) Wolfrider
+# 1x (5) Clockwork Automaton
+# 1x (5) Leeroy Jenkins
+# 1x (5) Platebreaker
+# 1x (9) Baku the Mooneater
+# 
+AAEBAa3ABAqhArUDrwTbCeHjAs/yAp74AvuwA+ipBszhBgqAB5UU5e8ChbADm80D9/gDqZ8Eqp8EjbUE054GAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### aGGro
+# Class: Rogue
+# Format: Wild
+#
+# 2x (0) Backstab
+# 1x (0) Shadowstep
+# 2x (1) Deadly Poison
+# 2x (1) Pharaoh Cat
+# 2x (1) Southsea Deckhand
+# 2x (2) Eviscerate
+# 2x (2) Faerie Dragon
+# 2x (2) Sap
+# 1x (3) Edwin VanCleef
+# 2x (3) EVIL Miscreant
+# 2x (3) Hooked Scimitar
+# 2x (3) SI:7 Agent
+# 2x (4) Dread Corsair
+# 2x (4) Lifedrinker
+# 2x (4) Waggle Pick
+# 1x (5) Leeroy Jenkins
+# 1x (5) Myra's Unstable Element
+# 
+AAEBAYO6AgSyAu0CrwTn+gINtAHLA80D4QTUBe4GiAfdCO/xAo+XA4mbA/+lA/WnAwAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Volatile Magic
+# Class: Mage
+# Format: Wild
+#
+# 2x (1) First Flame
+# 1x (1) Suspicious Alchemist
+# 2x (2) Amplified Snowflurry
+# 2x (2) Frozen Touch
+# 2x (2) Runed Orb
+# 2x (2) Spellcoiler
+# 2x (2) Volatile Skeleton
+# 1x (3) Arcane Intellect
+# 1x (3) Brann Bronzebeard
+# 1x (3) Frostweave Dungeoneer
+# 2x (3) Nightcloak Sanctum
+# 2x (3) Treasure Guard
+# 2x (4) Cold Case
+# 2x (4) School Teacher
+# 1x (5) Famished Fool
+# 1x (5) Lady Naz'jar
+# 1x (5) Taelan Fordring
+# 2x (6) Deathborne
+# 1x (10) Sire Denathrius
+# 
+AAEBAZirBAiFF9LsA6iKBPyeBNiyBNrQBOnQBLzwBAvQ7AOu9wOhkgSHtwSWtwTcuQTb3gT67ATJkQWCkwWEkwUAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### pirate
+# Class: Warrior
+# Format: Wild
+#
+# 2x (1) Sky Raider
+# 2x (1) Southsea Deckhand
+# 2x (1) Town Crier
+# 2x (1) Upgrade!
+# 2x (2) Bloodsail Raider
+# 2x (2) Fiery War Axe
+# 2x (2) Parachute Brigand
+# 1x (2) Sharkfin Fan
+# 2x (3) Skybarge
+# 2x (4) Dread Corsair
+# 2x (4) Hoard Pillager
+# 2x (4) Kor'kron Elite
+# 2x (4) Restless Mummy
+# 2x (5) Arcanite Reaper
+# 1x (5) Captain Greenskin
+# 1x (5) Faceless Corruptor
+# 1x (5) Leeroy Jenkins
+# 
+AAEBAQcEyAOvBM+JA4KxAw0csAKRA/8D1AXuBucHnfACn6ED3K0D3a0D6LAD6bADAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
