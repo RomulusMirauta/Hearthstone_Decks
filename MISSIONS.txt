@@ -1,3 +1,34 @@
+### STARSHIP
+# Class: Warlock
+# Format: Wild
+#
+# 2x (1) Kobold Librarian
+# 1x (1) Supreme Archaeology
+# 1x (1) The Soularium
+# 1x (1) Wicked Shipment
+# 2x (2) Crystal Welder
+# 1x (2) Darkshire Librarian
+# 2x (2) Dimensional Core
+# 2x (2) Heart of the Legion
+# 2x (2) Plot Twist
+# 1x (3) Desecrated Graveyard
+# 2x (3) Felfire Thrusters
+# 1x (3) Forge of Wills
+# 2x (3) Reverberations
+# 2x (5) Arkonite Defense Crystal
+# 2x (5) Bane of Doom
+# 1x (5) Star Vulpera
+# 2x (6) Bad Omen
+# 1x (7) Marin the Manager
+# 1x (7) The Exodar
+# 1x (8) Fel Lord Betrug
+# 
+AAEBAZT9BgqvrAKPggOJnQProwPFgAT4tQTX+gW6wQb23Qa86wYKF/LQAtqbA/GABovcBpzcBqHcBpvdBsjkBsjlBgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### DARK GIFT
 # Class: Warlock
 # Format: Wild
