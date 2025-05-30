@@ -1,3 +1,30 @@
+### FACE Troll 16OTK
+# Class: Demon Hunter
+# Format: Wild
+#
+# 2x (0) Dispose of Evidence
+# 1x (0) Sigil of Silence
+# 2x (1) Dreadprison Glaive
+# 2x (1) Fury (Rank 1)
+# 2x (1) Sigil of Alacrity
+# 2x (2) Chaos Strike
+# 2x (2) Fel Barrage
+# 2x (2) Mark of Scorn
+# 2x (2) Multi-Strike
+# 2x (3) Aldrachi Warblades
+# 2x (4) Topple the Idol
+# 2x (5) Bone Glaive
+# 2x (5) Chaos Nova
+# 1x (6) Kurtrus, Demon-Render
+# 2x (6) Proving Grounds
+# 2x (8) Troll Centurion
+# 
+AAEBAea5AwLr7wOHiwQO98MDwvEDifcDivcDyoAEhI0Eg58Etp8E26QEjrAEtbMEvsoEpeIEhpIFAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### AGAMAGGAN
 # Class: Warlock
 # Format: Wild
