@@ -1,3 +1,33 @@
+### Volatile Magic
+# Class: Mage
+# Format: Wild
+#
+# 2x (1) First Flame
+# 1x (1) Suspicious Alchemist
+# 2x (2) Amplified Snowflurry
+# 2x (2) Frozen Touch
+# 2x (2) Runed Orb
+# 2x (2) Spellcoiler
+# 2x (2) Volatile Skeleton
+# 1x (3) Arcane Intellect
+# 1x (3) Brann Bronzebeard
+# 1x (3) Frostweave Dungeoneer
+# 2x (3) Nightcloak Sanctum
+# 2x (3) Treasure Guard
+# 2x (4) Cold Case
+# 2x (4) School Teacher
+# 1x (5) Famished Fool
+# 1x (5) Lady Naz'jar
+# 1x (5) Taelan Fordring
+# 2x (6) Deathborne
+# 1x (10) Sire Denathrius
+# 
+AAEBAZirBAiFF9LsA6iKBPyeBNiyBNrQBOnQBLzwBAvQ7AOu9wOhkgSHtwSWtwTcuQTb3gT67ATJkQWCkwWEkwUAAA==
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Imbue Hunter DispKodoOTK
 # Class: Hunter
 # Format: Wild
