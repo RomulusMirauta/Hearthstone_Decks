@@ -1,3 +1,31 @@
+### Zerg Death Knight
+# Class: Death Knight
+# Format: Wild
+#
+# 2x (1) Baneling Barrage
+# 1x (1) Death Growl
+# 2x (1) Miracle Salesman
+# 2x (1) Orbital Moon
+# 2x (1) Zergling
+# 2x (2) Brittlebone Buccaneer
+# 2x (2) Dreadhound Handler
+# 1x (2) Mosh Pit
+# 2x (2) Spawning Pool
+# 2x (3) Chillfallen Baron
+# 2x (3) Hive Queen
+# 2x (3) Infestor
+# 2x (3) Nydus Worm
+# 1x (4) Viper
+# 2x (4) Yelling Yodeler
+# 2x (6) Airlock Breach
+# 1x (8) Kerrigan, Queen of Blades
+# 
+AAEBAfHhBASYxAXzyAXO8Qb/9wYNh/YE8OgFhY4G/7oGkMsGoOIG4eoGn/EGrPEGvvEGwvEG4/EGqPcGAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Volatile Magic
 # Class: Mage
 # Format: Wild
