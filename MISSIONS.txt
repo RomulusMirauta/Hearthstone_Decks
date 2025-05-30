@@ -1,3 +1,121 @@
+### DARK GIFT
+# Class: Warlock
+# Format: Wild
+#
+# 2x (1) Consume
+# 2x (1) Dark Possession
+# 2x (1) Demonic Studies
+# 2x (1) Scarab Keychain
+# 2x (2) Astrobiologist
+# 2x (2) Avant-Gardening
+# 2x (2) Creature of Madness
+# 2x (2) Dark Peddler
+# 2x (2) Demonic Dynamics
+# 1x (2) Eat! The! Imp!
+# 1x (2) Spawning Pool
+# 1x (2) Twisted Knowledge
+# 2x (3) Habeas Corpses
+# 1x (3) Nydus Worm
+# 1x (3) Prince Renathal
+# 2x (3) Raptor Herald
+# 2x (3) Ultralisk Cavern
+# 1x (4) Nightmare Lord Xavius
+# 2x (4) Overgrown Horror
+# 2x (4) Shadowflame Stalker
+# 2x (4) Treacherous Tormentor
+# 1x (5) Scrapbooking Student
+# 2x (9) Seaside Giant
+# 1x (10) Table Flip
+# 
+AAEBAZT9BgittgOX7wSJtQaRvwaUygaf8Qao9wbDgwcQue8CtO0E8sYFy58GmcsGtOYG4uYGgPgGg/gGnvkGtfoGjoMHw4cH6psH9qcHk60HAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### CAST: RANDOM SPELLS
+# Class: Mage
+# Format: Wild
+#
+# 1x (1) Forbidden Shrine
+# 1x (1) Shivering Sorceress
+# 1x (2) Siphon Mana
+# 1x (2) Sorcerer's Apprentice
+# 1x (2) Submerged Spacerock
+# 1x (2) Tidepool Pupil
+# 1x (2) Trick Totem
+# 1x (3) Babbling Bookcase
+# 1x (3) Blasteroid
+# 1x (3) Clearance Promoter
+# 1x (3) Darkmoon Magician
+# 1x (3) Educated Elekk
+# 2x (3) Molten Rune
+# 1x (3) Prince Renathal
+# 1x (3) Sweetened Snowflurry
+# 2x (4) Incanter's Flow
+# 1x (4) The Darkness
+# 1x (4) Volume Up
+# 2x (5) Deck of Wonders
+# 1x (5) Emperor Thaurissan
+# 2x (5) Naga Sand Witch
+# 1x (5) Servant of Yogg-Saron
+# 2x (5) Surfalopod
+# 2x (6) Zaqali Flamemancer
+# 1x (7) Prison of Yogg-Saron
+# 1x (8) Supernova
+# 1x (8) Yogg in the Box
+# 1x (9) Fyrakk the Blazing
+# 1x (9) The Sunwell
+# 1x (9) Ysera, Emerald Aspect
+# 2x (10) Puzzle Box of Yogg-Saron
+# 1x (10) Yogg-Saron, Hope's End
+# 1x (10) Yogg-Saron, Master of Fate
+# 
+AAEBAdjhBhrmBNYR6awC9uoCt9IDutUDndgDio0En5IEo84El+8E1KEF0PgF/vgFoaEGgKMG5qYG1agGwr4GzNAGmOoGm+oGqfUG9fwGrIgHu5QHB6DTAsKhA9alA8G4A8v+BbzOBsaHBwAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### Summon: Demons & Dragons
+# Class: Paladin
+# Format: Wild
+#
+# 1x (0) Desk Imp
+# 1x (1) Adaptive Amalgam
+# 1x (1) Giftwrapped Whelp
+# 2x (1) Mistake
+# 2x (2) Faerie Dragon
+# 1x (2) Hi Ho Silverwing
+# 1x (2) Imprisoned Vilefiend
+# 1x (2) Petal Peddler
+# 2x (2) Vilefiend
+# 1x (3) Bloodthistle Illusionist
+# 2x (3) Bronze Explorer
+# 2x (3) Bronze Herald
+# 1x (3) Nightbane Templar
+# 1x (3) Nightmare Amalgam
+# 2x (3) Piggyback Imp
+# 1x (3) Prince Renathal
+# 2x (3) Relentless Wrathguard
+# 2x (4) Astral Serpent
+# 2x (4) Daring Drake
+# 1x (4) Gorgonzormu
+# 2x (4) Illusory Greenwing
+# 1x (4) Nozdormu the Timeless
+# 1x (4) Twilight Guardian
+# 1x (5) Amber Watcher
+# 2x (5) Dragon Consort
+# 2x (6) Mad Summoner
+# 1x (7) Nozdormu the Eternal
+# 1x (9) Ysera, Emerald Aspect
+# 
+AAEBAaToAhCJFLW0At6CA4etA4iuA/S7A8/RA7aKBJfvBLyPBuqoBrrOBpbTBqn1BuaDB/eDBwz7Ea2UA9adA6GpA6mRBKnUBKSTBZGkBZWqBfiUBuLlBsSBBwAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Traveling mission
 # Class: Death Knight
 # Format: Wild
