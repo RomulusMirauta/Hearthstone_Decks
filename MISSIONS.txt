@@ -1,3 +1,105 @@
+### 1-cost + Hero Power
+# Class: Paladin
+# Format: Wild
+#
+# 1x (0) Target Dummy
+# 1x (1) Armor Vendor
+# 1x (1) Critter Caretaker
+# 1x (1) Crystology
+# 1x (1) Depth Charge
+# 2x (1) Dragonscale Armaments
+# 1x (1) Glacial Shard
+# 2x (1) Knight of Anointment
+# 2x (1) Miracle Salesman
+# 1x (1) Mistress of Mixtures
+# 2x (1) Peasant
+# 1x (1) Pelican Diver
+# 1x (1) Righteous Protector
+# 1x (1) Safety Inspector
+# 1x (1) Sir Finley, Sea Guide
+# 1x (1) Wave of Apathy
+# 1x (1) Wax Elemental
+# 1x (2) City Tax
+# 1x (2) Garrison Commander
+# 2x (3) Sing-Along Buddy
+# 2x (3) Time Out!
+# 1x (4) Nozdormu the Timeless
+# 1x (7) Nozdormu the Eternal
+# 1x (9) Nozdormu
+# 
+AAEBAaToAhKbA40Q1RPexALH0wLZ/gKHrQOEsQPLzQOS5APh5AOL+AO2igTJoATlsATquQTTngbiiQcGz4YDzOsD9PYDhY4GorMGz/4GAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### NEW DISCOVERIES
+# Class: Paladin
+# Format: Wild
+#
+# 2x (0) Adaptation
+# 2x (1) Blessed Goods
+# 1x (1) Flight of the Bronze
+# 1x (1) Holy Maki Roll
+# 2x (1) Humility
+# 1x (1) Making Mummies
+# 2x (1) Orbital Satellite
+# 1x (1) Righteous Cause
+# 2x (1) Uther's Gift
+# 2x (1) Whack-A-Gnoll
+# 2x (2) A Light in the Darkness
+# 1x (2) Sanctuary
+# 1x (2) Snack Run
+# 2x (2) Vitality Surge
+# 2x (3) Call to Adventure
+# 2x (3) Divine Favor
+# 1x (3) Prince Renathal
+# 2x (3) Service Bell
+# 1x (4) Nozdormu the Timeless
+# 2x (4) Trust Fall
+# 2x (5) Chromatic Egg
+# 1x (5) Ghost Writer
+# 2x (6) Arcane Dynamo
+# 1x (8) Tortollan Primalist
+# 1x (9) Arch-Thief Rafaam
+# 1x (9) Ysera, Emerald Aspect
+# 
+AAEBAaToAgyUF7DCApOlA4etA4ytA66wA/reA9C9BJfvBKeTBcjHBan1Bg6nBdYGgbAC2McCk4ADtJsDnrEDlfkDi40EgeIE6qkGm7gG/OEGzuUGAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
+### A LOT OF MANA
+# Class: Paladin
+# Format: Wild
+#
+# 2x (3) Call to Adventure
+# 1x (4) Nozdormu the Timeless
+# 1x (5) Bittertide Hydra
+# 2x (5) Frozen Crusher
+# 2x (5) Nesting Roc
+# 2x (6) Blazecaller
+# 1x (6) Hemet, Jungle Hunter
+# 1x (6) Sabretooth Stalker
+# 1x (6) Sunkeeper Tarim
+# 2x (6) Volcanosaur
+# 2x (7) Charged Devilsaur
+# 2x (7) Dinosize
+# 1x (7) Endbringer Umbra
+# 2x (7) Sated Threshadon
+# 2x (7) Stormwatcher
+# 1x (8) Primordial Drake
+# 1x (8) Tortollan Primalist
+# 2x (9) Giant Mastodon
+# 2x (10) Ultrasaur
+# 
+AAEBAaToAgi5wQKvwgKwwgLHwwKdxwLJxwKHrQP1mAcLoMECqsECssECmsICpcICxsIC2cIC48IC78ICyMcCtJsDAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### STARSHIP
 # Class: Warlock
 # Format: Wild
