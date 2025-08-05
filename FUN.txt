@@ -1,3 +1,32 @@
+### Space Goo
+# Class: Demon Hunter
+# Format: Standard
+# Year of the Raptor
+#
+# 2x (1) Tuskpiercer
+# 2x (2) Dimensional Core
+# 2x (2) Felfused Battery
+# 2x (2) Grim Harvest
+# 2x (3) Dissolving Ooze
+# 2x (3) Infiltrate
+# 2x (3) Paraglide
+# 2x (3) Return Policy
+# 2x (3) Shattershard Turret
+# 2x (3) Warp Drive
+# 1x (4) Kayn Sunfury
+# 1x (4) Nightmare Lord Xavius
+# 2x (5) Arkonite Defense Crystal
+# 2x (5) Carnivorous Cubicle
+# 1x (7) Endbringer Umbra
+# 2x (7) Ferocious Felbat
+# 1x (7) The Exodar
+# 
+AAECAbn5AwSongb23QbDgwf1mAcNqrgG38AGi9wGnNwGo9wGnd0GiuIGweoGwv4G0f4G3v8G7JsH0a8HAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### FACE Troll 16OTK
 # Class: Demon Hunter
 # Format: Wild
