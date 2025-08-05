@@ -1,3 +1,32 @@
+### Hero Power
+# Class: Hunter
+# Format: Wild
+#
+# 2x (1) Brave Archer
+# 1x (1) Slumbering Sprite
+# 2x (1) Tour Guide
+# 2x (1) Toxic Reinforcements
+# 2x (2) Dart Trap
+# 2x (2) Felfire Deadeye
+# 1x (2) Garrison Commander
+# 2x (2) Motion Denied
+# 2x (2) Quick Shot
+# 2x (3) Aimed Shot
+# 1x (3) Auctionmaster Beardo
+# 2x (3) Blackwald Pixie
+# 2x (3) Fencing Coach
+# 1x (3) Living Dragonbreath
+# 1x (3) Sing-Along Buddy
+# 2x (3) Tight-Lipped Witness
+# 1x (5) Clockwork Automaton
+# 2x (5) Platebreaker
+# 
+AAEBAR8G1ROdvQLP8gL6sAOiswao/QYMlRTSFM0W5e8ChbAD+7ADm80DkOQD9/gDu6AEw+0Eo+8EAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Hero Power Druid
 # Class: Druid
 # Format: Wild
