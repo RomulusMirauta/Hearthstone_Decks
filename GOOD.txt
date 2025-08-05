@@ -1,3 +1,34 @@
+### Swarm Terran Nunjabee
+# Class: Paladin
+# Format: Wild
+#
+# 2x (1) Frequency Oscillator
+# 2x (1) Miracle Salesman
+# 2x (1) SCV
+# 1x (2) Crystal Welder
+# 1x (2) Dimensional Core
+# 1x (2) Hi Ho Silverwing
+# 2x (2) Starport
+# 2x (2) Ultra-Capacitor
+# 1x (3) Dreamplanner Zephrys
+# 2x (3) Salvage the Bunker
+# 2x (4) Crusader Aura
+# 1x (4) Flash Sale
+# 2x (4) Ghost
+# 2x (4) Hellion
+# 2x (4) Lift Off
+# 1x (5) Arkonite Defense Crystal
+# 1x (5) Star Vulpera
+# 1x (7) The Exodar
+# 1x (8) Jim Raynor
+# 1x (10) Sea Giant
+# 
+AAEBAZ8FCtMBvI8G3roGi9wGnNwG9t0GzOEGyOUGvOsGr/EGCtnQBZX1BYWOBrTxBtjxBtrxBuLxBpDyBrv0Br/5BgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Odd Paladin 2025.2
 # Class: Paladin
 # Format: Wild
