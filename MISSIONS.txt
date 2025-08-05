@@ -1,3 +1,37 @@
+### GRIND Un'Goro M2 v1
+# Class: Paladin
+# Format: Wild
+#
+# 1x (1) Dive the Golakka Depths
+# 2x (1) Platysaur
+# 2x (1) Sizzling Cinder
+# 2x (1) Submerged Map
+# 2x (2) Curious Explorer
+# 2x (2) Questing Assistant
+# 2x (2) Rockskipper
+# 1x (2) Story of Galvadon
+# 2x (2) Violet Treasuregill
+# 2x (3) Ancient Stegodon
+# 2x (3) Dissolving Ooze
+# 1x (3) Marshland Thresher
+# 2x (3) Petrified Ogre
+# 2x (3) Primalfin Challenger
+# 1x (3) Prince Renathal
+# 2x (3) Pterrordax Egg
+# 2x (3) Ready the Fleet
+# 1x (3) Undercover Cultist
+# 2x (4) Blob of Tar
+# 1x (4) Creature of the Sacred Cave
+# 2x (4) Steamfin Thief
+# 2x (6) Scalehide Kodo
+# 2x (6) Tyrannogill
+# 
+AAEBAaToAgaX7wTdlAeIlQevlwf0mwflpwcRhZUHh5UHupYHoJcHoZcHqpcH15cHvZkHoZsHppsHzJsHzpsHz5sH65sH7JsH7psHh5wHAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Dark Nature Event
 # Class: Druid
 # Format: Wild
