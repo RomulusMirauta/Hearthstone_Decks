@@ -1,3 +1,36 @@
+### Imbue Druid WILD
+# Class: Druid
+# Format: Wild
+#
+# 2x (0) Innervate
+# 2x (1) Living Roots
+# 2x (1) Sow the Soil
+# 2x (1) Witchwood Apple
+# 2x (2) Bitterbloom Knight
+# 2x (2) Lifebinder's Gift
+# 2x (2) Natural Causes
+# 2x (2) Solar Eclipse
+# 2x (3) Dreambound Disciple
+# 2x (3) Frost Lotus Seedling
+# 2x (3) Overgrown Beanstalk
+# 2x (3) Petal Picker
+# 1x (3) Prince Renathal
+# 2x (3) Sing-Along Buddy
+# 2x (5) Aeroponics
+# 2x (5) Arbor Up
+# 1x (5) Hamuul Runetotem
+# 1x (6) Gnomelia, S.A.F.E. Pilot
+# 2x (7) Drum Circle
+# 2x (8) Cultivation
+# 2x (9) Mulchmuncher
+# 1x (10) Sire Denathrius
+# 
+AAEBAbr5AwTp0ASX7wTh6waqgQcSv/0C/K0DiuADjOQD7PUDrp8EgdQEst0E+d8F2/oF2f8F/Y0GrJ4GorMGydAG4IEH94EHwIcHAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Swarm Terran Nunjabee
 # Class: Paladin
 # Format: Wild
