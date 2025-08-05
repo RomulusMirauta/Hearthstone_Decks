@@ -1,3 +1,36 @@
+### Death Knight Cards
+# Class: Death Knight
+# Format: Wild
+#
+# 2x (1) Arthas's Gift
+# 2x (1) Auchenai Death-Speaker
+# 2x (1) Baneling Barrage
+# 2x (1) Body Bagger
+# 2x (1) Bone Breaker
+# 1x (1) Death Growl
+# 2x (1) Fistful of Corpses
+# 2x (1) Heart Strike
+# 2x (1) Icy Touch
+# 2x (1) Monstrous Mosquito
+# 1x (1) Morbid Swarm
+# 2x (1) Rite of Atrocity
+# 2x (1) Runes of Darkness
+# 2x (1) Skeletal Sidekick
+# 2x (1) Ymirjar Frostbreaker
+# 2x (1) Zergling
+# 1x (2) Crooked Cook
+# 2x (2) Frozen Over
+# 2x (2) Spawning Pool
+# 2x (3) Chillfallen Baron
+# 1x (3) Prince Renathal
+# 2x (3) Voracious Reader
+# 
+AAEBAfHhBATd7QSX7wTzyAWXggcSxtED/uMEjvEEh/YEsvcEk4EFrqEF+4AGg5IGlJUG6akGwOgGn/EGrPEG4/EGofQG//wGyIwHAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### 1-cost + Hero Power
 # Class: Paladin
 # Format: Wild
