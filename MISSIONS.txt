@@ -1,3 +1,31 @@
+### Dark Nature Event
+# Class: Druid
+# Format: Wild
+#
+# 2x (1) Cactus Construct
+# 2x (1) Forest Seedlings
+# 2x (1) Living Roots
+# 2x (2) Photon Cannon
+# 2x (2) Power of the Wild
+# 2x (3) Aerosoilizer
+# 2x (3) Overgrown Beanstalk
+# 2x (3) Void Ray
+# 2x (4) Distress Signal
+# 1x (5) Chrono Boost
+# 2x (5) Cosmic Phenomenon
+# 2x (5) Dozing Dragon
+# 1x (5) Greybough
+# 2x (5) Woodland Wonders
+# 1x (7) Crystal Cluster
+# 2x (7) Drum Circle
+# 1x (8) Artanis
+# 
+AAEBAbSKAwSgoAb55QaL9AaT9AYN2Z8EgdQE+d8FsPoFtZoG2JwGp7EG0roGydAGkPQGxfgGlf8GmP8GAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Death Knight Cards
 # Class: Death Knight
 # Format: Wild
