@@ -1,3 +1,39 @@
+### GRIND Un'Goro M3 v1
+# Class: Mage
+# Format: Wild
+#
+# 1x (1) Discovery of Magic
+# 2x (1) Jaina's Gift
+# 2x (1) Magic Trick
+# 2x (1) Seabreeze Chalice
+# 2x (1) Spark of Life
+# 2x (2) Celestial Ink Set
+# 2x (2) Hidden Objects
+# 2x (2) Primordial Glyph
+# 2x (2) Runed Orb
+# 2x (2) Story of the Waygate
+# 1x (2) Unearthed Artifacts
+# 1x (2) Vast Wisdom
+# 2x (2) Void Scripture
+# 2x (3) Build a Snowman
+# 2x (3) Cinderstorm
+# 1x (3) Prince Renathal
+# 1x (3) Storage Scuffle
+# 1x (4) Pocket Dimension
+# 2x (5) Deck of Wonders
+# 1x (7) Prison of Yogg-Saron
+# 1x (8) Grand Archivist
+# 1x (8) Primordial Protector
+# 1x (9) Fyrakk the Blazing
+# 2x (9) Rune of the Archmage
+# 2x (10) Puzzle Box of Yogg-Saron
+# 
+AAEBAdjhBgrQ5wLe7AOX7wSQlgX++AW//gXw5QasiAe3mwf6mwcPoNMC++wC/50DwqED0OwDufED9aIE+6IEg5UGsaAG56kGgb8GhuYG8ZEH+ZsHAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### GRIND Un'Goro M2 v1
 # Class: Paladin
 # Format: Wild
