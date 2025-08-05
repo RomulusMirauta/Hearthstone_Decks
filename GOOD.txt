@@ -1,3 +1,32 @@
+### Fyrakk Aggro Rogue
+# Class: Rogue
+# Format: Standard
+# Year of the Raptor
+#
+# 2x (0) Preparation
+# 2x (0) Shadowstep
+# 2x (1) Cindersword
+# 1x (1) Dig for Treasure
+# 2x (1) Nightmare Fuel
+# 2x (1) Spacerock Collector
+# 2x (2) Creature of Madness
+# 2x (2) Smoke Bomb
+# 2x (2) Web of Deception
+# 2x (3) Metal Detector
+# 2x (3) Raiding Party
+# 2x (4) Dread Corsair
+# 2x (4) Dubious Purchase
+# 1x (4) Nightmare Lord Xavius
+# 1x (5) Nostalgic Clown
+# 2x (5) Sandbox Scoundrel
+# 1x (9) Fyrakk the Blazing
+# 
+AAECAYO6AgSlpwatpwbDgwesiAcN9p8E958E1p4Gs6kGtrUG6ckG6uUGkeYGtfoGzv4GkIMHv4cHwYcHAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Even Totem Shaman
 # Class: Shaman
 # Format: Wild
