@@ -1,3 +1,32 @@
+### Hero Power Druid
+# Class: Druid
+# Format: Wild
+#
+# 2x (0) Construct Pylons
+# 1x (0) Innervate
+# 1x (1) Arkonite Revelation
+# 2x (1) Cactus Construct
+# 1x (1) Malfurion's Gift
+# 2x (1) Peaceful Piper
+# 2x (2) Astral Phaser
+# 2x (2) Groovy Cat
+# 2x (2) Popular Pixie
+# 2x (3) Frost Lotus Seedling
+# 2x (3) Sing-Along Buddy
+# 2x (3) Swipe
+# 2x (4) Spread the Word
+# 2x (5) Chrono Boost
+# 1x (5) Leeroy Jenkins
+# 2x (5) Mind Control Tech
+# 1x (6) Bob the Bartender
+# 1x (8) Artanis
+# 
+AAEBAbSKAwavBK6fBO+pBq3iBpP0BtuXBwzeBfzfBZHgBangBaPpBdv6BdicBqKzBqviBvflBov0BpX0BgAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Space Goo
 # Class: Demon Hunter
 # Format: Standard
