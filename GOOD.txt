@@ -1,3 +1,43 @@
+### Odd Paladin 2025.2
+# Class: Paladin
+# Format: Wild
+#
+# 2x (1) Animated Broomstick
+# 2x (1) Conviction (Rank 1)
+# 2x (1) Crystology
+# 2x (1) Knight of Anointment
+# 2x (1) Lost in the Jungle
+# 1x (1) Miracle Salesman
+# 2x (1) Promotion
+# 2x (1) Righteous Protector
+# 1x (1) Sir Finley, Sea Guide
+# 1x (1) Tour Guide
+# 1x (3) Demolition Renovator
+# 1x (3) Divine Favor
+# 1x (3) Dreamplanner Zephrys
+# 2x (3) Jury Duty
+# 2x (3) Lightfused Stegodon
+# 1x (3) Living Dragonbreath
+# 1x (3) Lord Barov
+# 1x (3) Prince Renathal
+# 1x (3) Runi, Time Explorer
+# 1x (3) Smothering Starfish
+# 1x (3) Stewart the Steward
+# 1x (3) Tight-Lipped Witness
+# 2x (3) Warhorse Trainer
+# 1x (5) Leeroy Jenkins
+# 1x (5) Level Up!
+# 1x (5) Loatheb
+# 1x (5) Platebreaker
+# 2x (5) Quartermaster
+# 1x (9) Baku the Mooneater
+# 
+AAEBAaToAhKvBKcF+g615gKe+AL6sAP7sAObzQOT0APlsASNtQTC4gSX7wSj7wSFjga0oQbM4QaDigcL7A/TE7jHAtnHAtn+ApXNA8zrA+PrA8mgBMHiBP3uBAAA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Zerg Death Knight
 # Class: Death Knight
 # Format: Wild
