@@ -1,3 +1,33 @@
+### Even Totem Shaman
+# Class: Shaman
+# Format: Wild
+#
+# 2x (0) Ancient Totem
+# 1x (0) Melomania
+# 2x (0) Totemic Might
+# 2x (0) Totemic Surge
+# 2x (2) Anchored Totem
+# 2x (2) Carving Chisel
+# 2x (2) Crackle
+# 2x (2) Flametongue Totem
+# 2x (2) Hydration Totem
+# 1x (2) Jam Session
+# 1x (2) Kobold Hermit
+# 2x (2) Maelstrom Portal
+# 2x (2) Needlerock Totem
+# 1x (2) Trusty Companion
+# 1x (3) Sing-Along Buddy
+# 1x (4) Draenei Totemcarver
+# 1x (6) Genn Greymane
+# 2x (6) Thing from Below
+# 1x (10) Gigantotem
+# 
+AAEBAfrwBgi1FMHSAs30Ar3lBPTQBfTyBcOPBqKzBgu+BtYP+6oCoLYC2qUD+rQEhtQEqtkEovoFnJ4Gq+EGAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### Imbue Druid WILD
 # Class: Druid
 # Format: Wild
