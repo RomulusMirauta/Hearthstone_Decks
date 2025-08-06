@@ -1,3 +1,39 @@
+### Umbra's Undead Army v1
+# Class: Death Knight
+# Format: Wild
+#
+# 1x (1) Adaptive Amalgam
+# 2x (1) Foul Egg
+# 2x (1) Mistress of Mixtures
+# 2x (1) Wailing Banshee
+# 2x (1) Zombie Chow
+# 1x (2) Bloodmage Thalnos
+# 2x (2) Dreadhound Handler
+# 2x (2) Harbinger of Winter
+# 1x (2) Mad Scientist
+# 1x (2) Pile of Bones
+# 2x (2) Umbral Geist
+# 1x (2) Unstable Ghoul
+# 2x (2) Volatile Skeleton
+# 2x (3) Brittleskin Zombie
+# 2x (3) Chillfallen Baron
+# 2x (3) Frostbitten Freebooter
+# 1x (3) Prince Renathal
+# 2x (3) Shallow Gravedigger
+# 1x (3) Vryghoul
+# 1x (4) Arfus
+# 2x (4) Eternal Layover
+# 1x (4) Thassarian
+# 2x (5) Amateur Puppeteer
+# 2x (6) Travel Security
+# 1x (7) Frost Queen Sindragosa
+# 
+AAEBAYG2Bwr3DZAO2s0CtuICl6AEl+8Ey6UFoaoF94wGltMGD9kN3sQCoc4Ck/EEh/YEtIAFyZEFk5IFoJkFk50F9rEG/7oGgcAGquEG9O0GAAA=
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
+
+
 ### GRIND Un'Goro M3 v1
 # Class: Mage
 # Format: Wild
